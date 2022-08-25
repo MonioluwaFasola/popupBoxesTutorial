@@ -1,0 +1,33 @@
+
+h1{
+    color: red;
+    font-size: x-large;
+}
+
+h2{
+    color: blue;
+    font-size: x-large;
+}
+
+h3{
+    color: green;
+    font-size: x-large;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+ button {
+    margin-left: 20px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+#exit {
+    color: blue;
+    margin-left: 20px;
+    font-size: x-large;
+}
